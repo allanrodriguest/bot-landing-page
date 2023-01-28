@@ -1,2 +1,3 @@
-# bot-landing-page
-Monitor bot for your Discord server
+# Good Robot
+Keep your Discord server safe!
+
